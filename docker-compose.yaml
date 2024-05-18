@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  pyshire_database:
+    image: postgres
+    restart: always
+
+    environment:
+      - POSTGRES_DB=psyhire_db
+      - POSTGRES_USER=psyhire_db
+      - POSTGRES_PASSWORD=psyhire_db@123
+    ports:
+      - 9051:5432

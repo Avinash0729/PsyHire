@@ -1,0 +1,122 @@
+[
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 9,
+    "fields": {
+      "name": "Educational Institutions",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 2,
+    "fields": {
+      "name": "Psychometry",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": true,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 8,
+    "fields": {
+      "name": "Finance",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 7,
+    "fields": {
+      "name": "Arts",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 18,
+    "fields": {
+      "name": "Test",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 6,
+    "fields": {
+      "name": "Health Care And Pharmacy",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 1,
+    "fields": {
+      "name": "It",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 4,
+    "fields": {
+      "name": "Accounting",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": true
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 28,
+    "fields": {
+      "name": "Sales And Marketing",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": false
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 29,
+    "fields": {
+      "name": "Digital Media",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": true
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 30,
+    "fields": {
+      "name": "Python Developer",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": true
+    }
+  },
+  {
+    "model": "assessments.assessmentsdomainmodel",
+    "pk": 30,
+    "fields": {
+      "name": "One way Technical Interview",
+      "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+      "is_psy": false,
+      "is_onewaytechnical": true
+    }
+  }
+]

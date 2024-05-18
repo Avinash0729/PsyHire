@@ -1,0 +1,13 @@
+[
+    {
+        "model": "company.CompanyDetailModel",
+        "pk": "08364fe6-5091-11ee-9131-3dcc86a589f9",
+        "fields": {
+            "title": "psyhire",
+            "company_email": "info@psyhire.ai",
+            "company_website": "https://psyhire.ai",
+            "plan": 1,
+            "user_type": "ORGANISATION"
+        }
+    }
+]

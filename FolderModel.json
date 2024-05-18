@@ -1,0 +1,502 @@
+[
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 1,
+    "fields": {
+      "name": "Python developer",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-01-06T09:26:10.501Z",
+      "domain": 1
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 12,
+    "fields": {
+      "name": "UI Developer",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-05T05:16:49.299Z",
+      "domain": 1
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 4,
+    "fields": {
+      "name": "UI Developer",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-05-05T05:17:00.624Z",
+      "domain": 1
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 65,
+    "fields": {
+      "name": "Customer Relationship Management Test",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:14.437Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 66,
+    "fields": {
+      "name": "Hospitality Sales and Marketing",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:19.632Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 67,
+    "fields": {
+      "name": "International Marketing Practice Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:20.083Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 68,
+    "fields": {
+      "name": "Key Accounts Management",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:23.004Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 69,
+    "fields": {
+      "name": "Market Research Practice Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:25.498Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 70,
+    "fields": {
+      "name": "Marketing and Sales Analytics",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:28.740Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 71,
+    "fields": {
+      "name": "Marketing Manager",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:30.114Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 72,
+    "fields": {
+      "name": "Marketing Planning Manager",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:33.688Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 73,
+    "fields": {
+      "name": "Sales Manager",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:37.872Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 74,
+    "fields": {
+      "name": "Sales Training Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:43.300Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 75,
+    "fields": {
+      "name": "Services Marketing",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:44.522Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 76,
+    "fields": {
+      "name": "Telesales Executive",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T07:33:48.026Z",
+      "domain": 28
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 81,
+    "fields": {
+      "name": "Digital Marketing Practice Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T08:58:24.576Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 18,
+    "fields": {
+      "name": "New Psychometric assessment",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-16T10:33:16.570Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 19,
+    "fields": {
+      "name": "TEST ASSESSMENT",
+      "difficulty_level": "Medium",
+      "created_time": "2022-03-18T08:51:03.250Z",
+      "domain": 6
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 20,
+    "fields": {
+      "name": "Advanced skill assessment",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-03-18T09:00:22.480Z",
+      "domain": 6
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 82,
+    "fields": {
+      "name": "Digital Skills",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T08:58:54.971Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 83,
+    "fields": {
+      "name": "Email Marketing Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T08:59:46.432Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 84,
+    "fields": {
+      "name": "Inbound Marketing Practice Test",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T09:00:12.593Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 24,
+    "fields": {
+      "name": "Technical Skill Assessment",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-18T09:17:07.003Z",
+      "domain": 6
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 85,
+    "fields": {
+      "name": "Internet of Things",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T09:00:34.182Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 26,
+    "fields": {
+      "name": " Technical Skill Assessment",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-18T09:19:34.226Z",
+      "domain": 9
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 27,
+    "fields": {
+      "name": "Technical Skill Assessment!!!!!",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-03-18T09:19:52.434Z",
+      "domain": 9
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 28,
+    "fields": {
+      "name": "!@&# &*@Y  !& @&&* @*",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-03-18T09:20:05.901Z",
+      "domain": 9
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 29,
+    "fields": {
+      "name": "Video Based Interview",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-18T09:27:07.472Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 86,
+    "fields": {
+      "name": "Mobile Marketing Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T09:01:29.856Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 2,
+    "fields": {
+      "name": "Psychometric Default",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-03-18T12:37:37.415Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 30,
+    "fields": {
+      "name": "Accounting Assessment",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-21T09:45:51.003Z",
+      "domain": 4
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 87,
+    "fields": {
+      "name": "Search Engine Marketing",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T09:01:59.924Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 88,
+    "fields": {
+      "name": "Search Engine Optimization",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T09:02:38.699Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 33,
+    "fields": {
+      "name": "Test",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-21T11:35:27.524Z",
+      "domain": 18
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 34,
+    "fields": {
+      "name": "New Test Assessment",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-21T11:48:29.917Z",
+      "domain": 7
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 35,
+    "fields": {
+      "name": "Personality Profile",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-03-21T11:55:34.493Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 36,
+    "fields": {
+      "name": "Video Introduction",
+      "difficulty_level": "Medium",
+      "created_time": "2022-03-21T11:56:54.395Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 89,
+    "fields": {
+      "name": "Social Media Marketing Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T09:02:56.278Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 90,
+    "fields": {
+      "name": "Web Analytics Questions",
+      "difficulty_level": "Medium",
+      "created_time": "2022-05-19T09:03:22.184Z",
+      "domain": 29
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 48,
+    "fields": {
+      "name": "UI DEVELOPER",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-09-02T05:08:15.840Z",
+      "domain": 1
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 92,
+    "fields": {
+      "name": "aaaaa",
+      "difficulty_level": "Medium",
+      "created_time": "2022-09-02T05:11:10.854Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 93,
+    "fields": {
+      "name": "Video Introduction",
+      "difficulty_level": "Difficult",
+      "created_time": "2022-09-06T09:53:39.983Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 94,
+    "fields": {
+      "name": "Video Introduction 2",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-09-06T09:54:15.564Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 95,
+    "fields": {
+      "name": "Video Introduction4",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-09-06T09:55:25.635Z",
+      "domain": 2
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 49,
+    "fields": {
+      "name": "New Assessment",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-22T09:26:43.718Z",
+      "domain": 8
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 50,
+    "fields": {
+      "name": "Backend",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-22T09:26:43.718Z",
+      "domain": 30
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 51,
+    "fields": {
+      "name": "Frontend",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-22T09:26:43.718Z",
+      "domain": 30
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 52,
+    "fields": {
+      "name": "UI Ux",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-22T09:26:43.718Z",
+      "domain": 30
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 53,
+    "fields": {
+      "name": "Testing",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-22T09:26:43.718Z",
+      "domain": 30
+    }
+  },
+  {
+    "model": "assessments.assessmentsfoldermodel",
+    "pk": 54,
+    "fields": {
+      "name": "Datascience",
+      "difficulty_level": "Intermediate",
+      "created_time": "2022-03-22T09:26:43.718Z",
+      "domain": 30
+    }
+  }
+]

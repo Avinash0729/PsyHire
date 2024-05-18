@@ -1,0 +1,690 @@
+[
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 1,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a time you missed (or almost missed) a deadline. How did you react when you realized you were falling behind? What did that experience teach you?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 2,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "If your manager asked you to complete a task you thought impossible at first, how would you go about it?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 3,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "What types of activities or hobbies do you enjoy outside of work?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 4,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "If you could change one thing about your personality at the snap of your fingers what would it be and why?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 5,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a time when you relied on your creativity to solve a problem.",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 6,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "How do you feel when someone interrupts you when you\u2019re in the middle of a task?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 7,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Have you ever been surprised by the quality of work someone presented to you? Tell us about it and what you learned.",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 8,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 9,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you had to adjust to changes over which you had no control. How did you do this?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 10,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a situation that you had to speak up and be assertive in order to get a point across that was important for you.",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 11,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 2
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 12,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation when you did much more than it was expected from you to get the project done. Were your efforts recognized? By whom and how? How did that make you feel?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 13,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a time when you took ownership of a project. Why did you do this? What was the result of you taking the challenge? What could have happened if you did not take ownership?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 14,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Think about an instance in which you came up with a project idea that was implemented primarily because of your efforts. What was it about? What was its outcome? What was your role?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 15,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a time when you made a suggestion to improve something on the project that you were working on.",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 16,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 17,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you met a major obstacle in order to complete a project. How did you deal with it? What steps did you take?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 18,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a time you had to work on several projects at once. How did you handle that?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 19,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you have experienced a significant project change that you weren\u2019t expecting. What was it? How did that impact you, and how did you adapt to this change? How did you remain productive through the project?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 20,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you had to adjust to changes over which you had no control. How did you do this?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 21,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "I\u2019d be interested in hearing about a miscommunication you had with your supervisor. How did you solve it? What was the reason for that? How did you deal with that situation?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 22,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about an instance when you had to communicate a really bad piece of news to your supervisor or\u00a0team members. How did you handle it? What was the outcome?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 23,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 24,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a situation that you had to speak up and be assertive in order to get a point across that was important for you.",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 25,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a time when you had to work with a difficult person to accomplish a goal. What was the biggest challenge? How did you handle it?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 26,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Has there been a time on a project when you disagreed with someone? What did you do about it?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 27,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 28,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Give me an example of a time when you were faced with a complex project related matter and you could not decide on the best way to deal with it. What did you do? How did you go about making the decision \u2013 lead me through your decision process? If you could make the\u00a0decision once again, would you change anything",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 29,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Think about an instance in which you made a decision at work that was unpopular. How did you handle it?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 30,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Give me an example of a project that completely failed. Why do you think it was a failure? Could there be anything done differently in order to turn it into success?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 31,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn\u2019t you get the desired results? What did you learn from the experience?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 32,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Provide an example of an important project goal you reached and how you achieved it.",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 33,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a circumstance when you were not able to achieve a project goal that was set by your supervisor. How did you handle this situation? What was the outcome?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 34,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Think about an instance in which you had to depend on others to help you achieve a project goal. How did you feel?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 35,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 36,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 37,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "What is the biggest problem you have faced on projects so far and how did you solve it? What made the problem difficult to resolve? What was the result? Would you do anything differently now?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 38,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Give me an example of a time when you noticed a small problem before it turned into a major one. Did you take the initiative to correct it? What kind of preventive measure did you undertake?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 39,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation where you had to work in a team that didn\u2019t get on very well. What happened? What did you do and what role did you take? How did the situation evolve?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 40,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a team experience you found disappointing. What would you have done differently to prevent this?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 41,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Give me an example of working cooperatively as a team member to accomplish an important goal. What was the objective? To what extent did you interact with other project members?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 42,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    },
+    {
+        "model": "assessments.assessmentsquestionsmodel",
+        "pk": 43,
+        "fields": {
+            "created_date": null,
+            "updated_date": null,
+            "name": "Give me a recent example of a stressful situation on the job. What happened? How did you handle it?",
+            "instructions": null,
+            "options": null,
+            "answer": null,
+            "msq_answers": null,
+            "is_aptitude": false,
+            "question_type": "PSYCHOMETRIC",
+            "folder": 1
+        }
+    }
+]

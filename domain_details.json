@@ -1,0 +1,255 @@
+[
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 37,
+        "fields": {
+            "name": "Business and Financial Operations",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 38,
+        "fields": {
+            "name": "Arts, Design, Entertainment, Sports, and Media",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 39,
+        "fields": {
+            "name": "Computer",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 40,
+        "fields": {
+            "name": "Healthcare Practitioners and Technical",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 41,
+        "fields": {
+            "name": "Educational Instruction and Library",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 42,
+        "fields": {
+            "name": "Production",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 43,
+        "fields": {
+            "name": "Legal",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 44,
+        "fields": {
+            "name": "Management",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 45,
+        "fields": {
+            "name": "Sales and Related",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 46,
+        "fields": {
+            "name": "Architecture and Engineering",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 47,
+        "fields": {
+            "name": "Farming, Fishing, and Forestry",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 48,
+        "fields": {
+            "name": "Life, Physical, and Social Science",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 49,
+        "fields": {
+            "name": "Military Specific",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 50,
+        "fields": {
+            "name": "Transportation and Material Moving",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 51,
+        "fields": {
+            "name": "Installation, Maintenance, and Repair",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 52,
+        "fields": {
+            "name": "Personal Care and Service",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 53,
+        "fields": {
+            "name": "Protective Service",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 54,
+        "fields": {
+            "name": "Food Preparation and Serving Related",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 55,
+        "fields": {
+            "name": "Office and Administrative Support",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 56,
+        "fields": {
+            "name": "Construction and Extraction",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 57,
+        "fields": {
+            "name": "Building and Grounds Cleaning and Maintenance",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 58,
+        "fields": {
+            "name": "Community and Social Service",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    },
+    {
+        "model": "assessments.assessmentsdomainmodel",
+        "pk": 59,
+        "fields": {
+            "name": "Healthcare Support",
+            "image_url": "https://stgaptahr.blob.core.windows.net/devaptahr25/MediaConvertionEndPoint1696326466.045905.png",
+            "is_psy": false,
+            "is_onewaytechnical": false,
+            "is_job_description": true
+        }
+    }
+]

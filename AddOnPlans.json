@@ -1,0 +1,46 @@
+[
+    {
+        "model": "company.companyaddonsplansmodel",
+        "pk": 1,
+        "fields": {
+            "name": "STARTER",
+            "amount": 99,
+            "type": "PSYCHOMETRIC",
+            "is_monthly": false,
+            "no_of_assessments": 5
+        }
+    },
+    {
+        "model": "company.companyaddonsplansmodel",
+        "pk": 2,
+        "fields": {
+            "name": "STANDARD",
+            "amount": 75,
+            "type": "PSYCHOMETRIC",
+            "is_monthly": false,
+            "no_of_assessments": 25
+        }
+    },
+    {
+        "model": "company.companyaddonsplansmodel",
+        "pk": 3,
+        "fields": {
+            "name": "ENTERPRISE",
+            "amount": 50,
+            "type": "PSYCHOMETRIC",
+            "is_monthly": false,
+            "no_of_assessments": 50
+        }
+    },
+    {
+        "model": "company.companyaddonsplansmodel",
+        "pk": 4,
+        "fields": {
+            "name": "PREMIUM",
+            "amount": 30,
+            "type": "PSYCHOMETRIC",
+            "is_monthly": false,
+            "no_of_assessments": 100
+        }
+    }
+]
