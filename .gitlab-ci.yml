@@ -1,0 +1,28 @@
+stages:
+  - build
+  - sonarqube-checking
+
+build:
+  stage: build
+  script:
+    - yarn
+    - yarn build
+   # - echo $MY_SUDO_PASSWORD | sudo -S rm -rf /root/psy_frontend_testing/.next
+   # - echo $MY_SUDO_PASSWORD | sudo -S cp -R /home/gitlab-runner/builds/z9R52iE65/0/ag-team/psyhire/.next /root/psy_frontend_testing/
+   # - echo $MY_SUDO_PASSWORD | sudo -S pm2 restart all
+sonarqube-check:
+  stage: sonarqube-checking
+  image:
+    name: sonarsource/sonar-scanner-cli:latest
+    entrypoint: [""]
+  variables:
+    SONAR_USER_HOME: "${CI_PROJECT_DIR}/.sonar"  # Defines the location of the analysis task cache
+    GIT_DEPTH: "0"  # Tells git to fetch all the branches of the project, required by the analysis task
+  cache:
+    key: "${CI_JOB_NAME}"
+    paths:
+      - .sonar/cache
+  script:
+    - sonar-scanner -X -Dsonar.sources=. -Dsonar.host.url=$SONAR_HOST_URL -Dsonar.login=$SONAR_LOGIN -Dsonar.password=$SONAR_PASSWORD -Dsonar.projectKey=psyhire-gitlab
+  only:
+    - DEV/frontend
